@@ -1,0 +1,4 @@
+pandas
+numpy
+fastai=2.1.6
+torch
